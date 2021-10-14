@@ -1,4 +1,5 @@
 ### Hi there 👋
+VisualStudio NET Csharp Xamarin Angular Python Typescript JavaScript HTML CSS Bootstrap Microsoft Sql Server Git GitLab GitHub VS Code Tensorflow
 
 <!--
 **amirerajabi/amirerajabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
