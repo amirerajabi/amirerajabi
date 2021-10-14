@@ -1,3 +1,9 @@
+<div align="center">
+  <img width=55% src="https://tenor.com/view/programmer-gif-19019116" />
+</div>
+  
+<br> 
+
 ### Hi, I'm Amir Rajabi 👋
 A Software Developer with more than 4 years of experience in designing and developing complex applications and internal frameworks, mainly using the Microsoft stack.
 - 💡 Currently working at SanayCo
