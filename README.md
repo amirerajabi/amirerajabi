@@ -1,5 +1,5 @@
 ### Hi there 👋
-VisualStudio NET Csharp Xamarin Angular Python Typescript JavaScript HTML CSS Bootstrap Microsoft Sql Server Git GitLab GitHub VS Code Tensorflow
+https://camo.githubusercontent.com/34bb4400f93c43dbba5fbc2bc126fee970691eb5b0d5d48e813ab71199d9e4b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d7265643f7374796c653d666c61742d737175617265266c6f676f3d616e67756c6172
 
 <!--
 **amirerajabi/amirerajabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
