@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Amir Rajabi 👋
+A Software Developer with more than 4 years of experience in designing and developing complex applications and internal frameworks, mainly using the Microsoft stack.
+- 💡 Currently working at SanayCo
+
+## 🛠️ Languages & Tools
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-blueviolet?style=flat-square&logo=visualstudio)
 ![NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=dotnet)
 ![Csharp](https://img.shields.io/badge/-Csharp-blueviolet?style=flat-square&logo=csharp&logoColor=ffffff)
