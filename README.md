@@ -5,7 +5,7 @@
 <br> 
 
 ### Hi, I'm Amir Rajabi 👋
-A Software Developer with over 5 years of experience in designing and developing complex applications and internal frameworks, primarily using the Microsoft stack.
+As a software developer with over 5 years of experience in the Microsoft stack, I have honed my skills in developing complex projects. Always eager to learn, I'm constantly seeking out new technologies and techniques to enhance my abilities. With a passion for problem-solving, I approach every project with a can-do attitude and a commitment to delivering results. My expertise lies in developing scalable solutions that meet the needs of clients across a range of industries. Whether it's building a custom application or troubleshooting a tricky issue, I'm always up for a challenge.
 - 💡 Currently working at SanayCo
 
 ## 🛠️ Languages & Tools
